@@ -24,19 +24,17 @@ Efter denna övning ska du kunna:
 ### Steg 1: Skapa GitHub-konto
 1. Gå till [github.com](https://github.com)
 2. Klicka på "Sign up"
-3. Använd din skoladress: `fornamn.efternamn@elev.ga.ntig.se`
-4. Välj ett professionellt användarnamn (ex: `anna-andersson-ntig`)
+3. Använd din privata mailadress: `fornamn.efternamn@gmail.com`
+4. Välj ett professionellt användarnamn (ex: `anna-andersson`)
 
 ### Steg 2: Installera Git (om inte redan gjort)
 - **Windows:** Ladda ner från [git-scm.com](https://git-scm.com/)
-- **Mac:** `brew install git` eller ladda ner från git-scm.com
-- **Linux:** `sudo apt install git`
 
 ### Steg 3: Konfigurera Git
 Öppna terminal/kommandotolk och kör:
 ```bash
 git config --global user.name "Ditt Namn"
-git config --global user.email "din.email@elev.ga.ntig.se"
+git config --global user.email "din.email@gmail.com"
 ```
 
 ### Steg 4: Klona detta repository
@@ -49,7 +47,7 @@ cd te4-exercise-git-basic-ditt-användarnamn
 Se filen `UPPGIFTER.md` för specifika uppgifter att genomföra.
 
 ## Hjälp och support
-- Fråga läraren om du kör fast
+- Använd Discord "Help-me" om du kör fast
 - Använd [Git dokumentation](https://git-scm.com/docs) för referens
 - GitHub har bra [guider för nybörjare](https://docs.github.com/en/get-started)
 
