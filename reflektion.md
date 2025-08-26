@@ -2,39 +2,39 @@
 
 ## Innan övningen
 **Vad visste du om Git innan denna övning?**
-[Skriv ditt svar här]
+[Inte så mycket]
 
 **Vad förväntade du dig att lära dig?**
-[Skriv ditt svar här]
+[En del om Git]
 
 ## Efter övningen
 **Vad har du lärt dig om Git?**
-[Skriv ditt svar här]
+[Ganska mycket än så länge, skapa filer, lägga till filer i staging area, commit filer bla ]
 
 **Vilka kommandon har du använt?**
-- [ ] `git clone`
-- [ ] `git status`
-- [ ] `git add`
-- [ ] `git commit`
+- [X] `git clone`
+- [X] `git status`
+- [X] `git add`
+- [X] `git commit`
 - [ ] `git push`
-- [ ] `git log`
-- [ ] `git diff`
+- [X] `git log`
+- [X] `git diff`
 
 **Vad var svårast?**
-[Skriv ditt svar här]
+[git push]
 
 **Vad var lättast?**
-[Skriv ditt svar här]
+[git status]
 
 **Hur tror du att Git kommer vara användbart i framtiden?**
-[Skriv ditt svar här]
+[ingen aning faktiskt]
 
 ## Frågor och tankar
 **Har du några frågor kvar om Git?**
-[Skriv dina frågor här]
+[inget särskilt än så länge]
 
 **Vad vill du lära dig mer om?**
-[Skriv ditt svar här]
+[allt som finns]
 
 ---
 *Fyyll i denna reflektion som en del av uppgift 3*
